@@ -1,0 +1,10 @@
+{
+	"plugins": [
+			
+	],
+	"pluginsConfig": {
+			"hide-element": {
+					"elements": [".gitbook-link"]
+			}
+	}	
+}
